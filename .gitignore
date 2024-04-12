@@ -1,0 +1,10 @@
+# files
+*.DS_Store
+*.pyc
+.venv
+.env
+
+
+# logs
+
+# folders
